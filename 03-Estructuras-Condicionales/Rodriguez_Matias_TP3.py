@@ -2,31 +2,31 @@
 """1) Escribir un programa que solicite la edad del usuario. Si el usuario es mayor de 18 años,
 deberá mostrar un mensaje en pantalla que diga “Es mayor de edad”."""
 
-""" edad = int(input("Ingrese su edad: "))
+edad = int(input("Ingrese su edad: "))
 if edad >= 18:
-        print("Es mayor de edad") """
+        print("Es mayor de edad")
 
 """2) Escribir un programa que solicite su nota al usuario. Si la nota es mayor o igual a 6, deberá
 mostrar por pantalla un mensaje que diga “Aprobado”; en caso contrario deberá mostrar el
 mensaje “Desaprobado”."""
 
-""" nota = int(input("Ingrese su nota: "))
+nota = int(input("Ingrese su nota: "))
 if nota >= 6:
     print("Aprobado")
 else:
-    print("Desaprobado") """
+    print("Desaprobado")
 
 """3) Escribir un programa que permita ingresar solo números pares. Si el usuario ingresa un
 número par, imprimir por en pantalla el mensaje "Ha ingresado un número par"; en caso
 contrario, imprimir por pantalla "Por favor, ingrese un número par". Nota: investigar el uso del
 operador de módulo (%) en Python para evaluar si un número es par o impar."""
 
-""" num = int(input("Ingresa un numero: "))
+num = int(input("Ingresa un numero: "))
 if num % 2 == 0:
     print("Ha ingresado un número par")
 else:
     print("Por favor, ingrese un número par")
- """
+
 """ 4) Escribir un programa que solicite al usuario su edad e imprima por pantalla a cuál de las
 siguientes categorías pertenece:
 ● Niño/a: menor de 12 años.
@@ -34,7 +34,7 @@ siguientes categorías pertenece:
 ● Adulto/a joven: mayor o igual que 18 años y menor que 30 años.
 ● Adulto/a: mayor o igual que 30 años. """
 
-""" edad = int(input("Ingrese su edad: "))
+edad = int(input("Ingrese su edad: "))
 if edad < 12:
     print("Niño/a")
 elif edad < 18:
@@ -42,8 +42,8 @@ elif edad < 18:
 elif edad <= 30:
     print("Adulto/a joven")
 else:
-    print("Adulto/a") """
-
+    print("Adulto/a") 
+    
 """ 5) Escribir un programa que permita introducir contraseñas de entre 8 y 14 caracteres
 (incluyendo 8 y 14). Si el usuario ingresa una contraseña de longitud adecuada, imprimir por en
 pantalla el mensaje "Ha ingresado una contraseña correcta"; en caso contrario, imprimir por
@@ -51,11 +51,11 @@ pantalla "Por favor, ingrese una contraseña de entre 8 y 14 caracteres". Nota: 
 de la función len() en Python para evaluar la cantidad de elementos que tiene un iterable tal
 como una lista o un string."""
 
-""" contraseña = input("Ingrese su contraseña: ")
+contraseña = input("Ingrese su contraseña: ")
 if 8 <= len(contraseña) <= 14:
     print("Ha ingresado una contraseña correcta")
 else: 
-    print("Por favor, ingrese una contraseña de entre 8 y 14 caracteres") """
+    print("Por favor, ingrese una contraseña de entre 8 y 14 caracteres")
 
 """ 6) Escribir un programa que tome la lista numeros_aleatorios, calcule 
 su moda, su mediana y su media y las compare para determinar si hay sesgo positivo, negativo o no hay sesgo. Imprimir el resultado por pantalla.
@@ -67,7 +67,7 @@ Definir la lista numeros_aleatorios de la siguiente forma: import random numeros
  que la moda. 
  ● Sin sesgo: cuando la media, la mediana y la moda son iguales. """
 
-""" import random
+import random
 from statistics import mode, median, mean
 numeros_aleatorios = [random.randint(1, 100) for i in range(50)]
 moda = mode(numeros_aleatorios)
@@ -78,20 +78,20 @@ if media > mediana and mediana > moda:
 elif media < mediana and mediana < moda:
     print("Sesgo negativo")
 elif media == mediana and media == moda:
-    print("Sin sesgo") """
+    print("Sin sesgo")
 
 """ 7) Escribir un programa que solicite una frase o palabra al usuario. Si el string ingresado
 termina con vocal, añadir un signo de exclamación al final e imprimir el string resultante por
 pantalla; en caso contrario, dejar el string tal cual lo ingresó el usuario e imprimirlo por
 pantalla. """
 
-""" cadena = input("Ingrese una frase o una palabra: ")
+cadena = input("Ingrese una frase o una palabra: ")
 ultimaLetra = cadena[len(cadena)-1].lower()
 vocales = ["a", "e", "i", "o", "u"]
 
 if ultimaLetra in vocales:
     cadena = cadena + "!"
-print(cadena) """
+print(cadena)
 
 """ 8) Escribir un programa que solicite al usuario que ingrese su nombre y el número 1, 2 o 3 dependiendo de la opción que desee:
 1. Si quiere su nombre en mayúsculas. Por ejemplo: PEDRO.
