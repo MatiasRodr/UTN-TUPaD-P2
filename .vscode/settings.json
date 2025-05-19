@@ -1,0 +1,10 @@
+{
+    "python.analysis.autoImportCompletions": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "python": true
+    }
+}
