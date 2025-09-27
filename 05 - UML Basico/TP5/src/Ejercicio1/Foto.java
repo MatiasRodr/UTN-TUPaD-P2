@@ -10,11 +10,9 @@ public class Foto {
         this.imagen = imagen;
         this.formato = formato;
     }
-
     public String getImagen() {
         return imagen;
     }
-
     public String getFormato() {
         return formato;
     }

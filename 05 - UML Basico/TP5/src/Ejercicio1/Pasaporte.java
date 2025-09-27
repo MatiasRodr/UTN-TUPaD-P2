@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Ejercicio1;
 
 
@@ -10,6 +6,11 @@ public class Pasaporte {
     private String fechaEmision;
     private Foto foto;              // Composicion
     private Titular titular;        // Asocicion
+
+    @Override
+    public String toString() {
+        return "Pasaporte{" + "numero=" + numero + ", fechaEmision=" + fechaEmision + ", foto=" + (foto != null ? foto.getImagen() + "." + foto.getFormato() : "No tiene foto") + '}';
+    }
 
     public int getNumero() {
         return numero;
@@ -27,8 +28,8 @@ public class Pasaporte {
         this.fechaEmision = fechaEmision;
     }
 
-    public Foto getFoto() {
-        return foto;
+    public String obtenerFoto() {
+        return foto.getImagen()+ "." + foto.getFormato();
     }
 
     public void setFoto(Foto foto) {
