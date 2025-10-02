@@ -1,18 +1,19 @@
+
 package Ejercicio7;
 
-import Ejercicio5.Propietario;
+
 
 public class Vehiculo {
     private String patente;
     private String modelo;
-    private Motor motor;       // Agregación
-    private Conductor conductor; // Asociación Bidireccional
+    private Motor motor;       // Agregaciï¿½n
+    private Conductor conductor; // Asociaciï¿½n Bidireccional
 
 
     public Vehiculo(String patente, String modelo, Motor motor) {
         this.patente = patente;
         this.modelo = modelo;
-        this.motor = motor; // Agregación: inyección del objeto existente
+        this.motor = motor; // Agregaciï¿½n: inyecciï¿½n del objeto existente
     }
     
     public void mostrarMotor(){
@@ -21,7 +22,7 @@ public class Vehiculo {
     
     public void setConductor(Conductor conductor) {
         this.conductor = conductor;
-        if (conductor != null && conductor.ge() != this) {conductor.setVehiculo(this);
+        if (conductor != null && conductor.getVehiculo() != this) {conductor.setVehiculo(this);
         }
     }
     public String getPatente() {

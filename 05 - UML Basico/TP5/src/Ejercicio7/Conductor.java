@@ -27,7 +27,7 @@ public class Conductor {
     public void setVehiculo(Vehiculo vehiculo) {
         this.vehiculo = vehiculo;
         
-        // Gestiona la bidireccionalidad: si el vehículo no tiene este conductor, lo asigna.
+        // Gestiona la bidireccionalidad: si el vehï¿½culo no tiene este conductor, lo asigna.
         if (vehiculo != null && vehiculo.getConductor() != this) {
             vehiculo.setConductor(this);
         }
