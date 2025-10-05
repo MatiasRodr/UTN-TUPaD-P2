@@ -2,40 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio3/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio4/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio4/TarjetaDeCredito.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio4/Cliente.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio4/Banco.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio3/Libro.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio5/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio5/Computadora.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio5/PlacaMadre.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio5/Propietario.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio6/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio6/Mesa.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio6/Cliente.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio6/Reserva.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio7/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio7/Conductor.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio7/Motor.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio7/Vehiculo.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio9/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio9/Profesional.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio9/CitaMedica.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio9/Paciente.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio9/Ejercicio9.png</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio8/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio8/Usuario.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio8/FirmaDigital.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio8/Ejercicio8.png</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio8/Documento.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio10/main.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio10/CuentaBancaria.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio10/ClaveSeguridad.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio10/Titular.java</file>
-            <file>file:/C:/Users/Marco/OneDrive%20-%20frt.utn.edu.ar/TUP/2do%20Custrimestre/Java/UTN-TUPaD-P2/05%20-%20UML%20Basico/TP5/src/Ejercicio10/Ejercicio10.png</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
